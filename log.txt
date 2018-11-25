@@ -1,0 +1,137 @@
+L4 | Sun Nov 25 01:33:49 2018 (833 ms) | general | Server starting up
+L4 | Sun Nov 25 01:33:49 2018 (835 ms) | general | Server using version number 1
+L4 | Sun Nov 25 01:33:49 2018 (859 ms) | general | curseLog starting up
+L4 | Sun Nov 25 01:33:49 2018 (860 ms) | general | Using remote curse server.
+L4 | Sun Nov 25 01:33:49 2018 (860 ms) | general | lifeLog starting up
+L4 | Sun Nov 25 01:33:49 2018 (865 ms) | general | foodLog starting up
+L4 | Sun Nov 25 01:33:49 2018 (866 ms) | general | failureLog starting up
+L4 | Sun Nov 25 01:33:49 2018 (898 ms) | general | No lookTimes present, not cleaning map.db
+L4 | Sun Nov 25 01:33:49 2018 (901 ms) | general | No lookTimes present, not cleaning mapTime.db
+L4 | Sun Nov 25 01:33:49 2018 (903 ms) | general | No lookTimes present, not cleaning biome.db
+L4 | Sun Nov 25 01:33:49 2018 (906 ms) | general | No lookTimes present, not cleaning floor.db
+L4 | Sun Nov 25 01:33:49 2018 (909 ms) | general | No lookTimes present, not cleaning floorTime.db
+L4 | Sun Nov 25 01:33:49 2018 (912 ms) | general | MetadataDB:  Found 0 records with max MetadataID of 0
+L4 | Sun Nov 25 01:33:49 2018 (913 ms) | general | 
+Cleaning map of objects that have been removed...
+L4 | Sun Nov 25 01:33:49 2018 (913 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Sun Nov 25 01:33:49 2018 (913 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Sun Nov 25 01:33:49 2018 (914 ms) | general | ...0 database records total (0 max hash bin depth).
+L4 | Sun Nov 25 01:33:49 2018 (917 ms) | general | Listening for connection on port 8005
+L4 | Sun Nov 25 01:33:55 2018 (921 ms) | general | Apocalypse check:  New remote apocalypse:  5.
+L4 | Sun Nov 25 01:34:33 2018 (275 ms) | general | Got connection from 127.0.0.1:52810
+L4 | Sun Nov 25 01:34:33 2018 (293 ms) | general | Listening for another connection on port 8005
+L4 | Sun Nov 25 01:34:34 2018 (273 ms) | general | Failed to read from client socket, client rejected.
+L4 | Sun Nov 25 01:34:34 2018 (273 ms) | general | Closing new connection on error (cause: Socket read failed)
+L4 | Sun Nov 25 01:35:31 2018 (408 ms) | general | Server starting up
+L4 | Sun Nov 25 01:35:31 2018 (409 ms) | general | Server using version number 172
+L4 | Sun Nov 25 01:35:31 2018 (431 ms) | general | curseLog starting up
+L4 | Sun Nov 25 01:35:31 2018 (431 ms) | general | Using remote curse server.
+L4 | Sun Nov 25 01:35:31 2018 (432 ms) | general | lifeLog starting up
+L4 | Sun Nov 25 01:35:31 2018 (436 ms) | general | foodLog starting up
+L4 | Sun Nov 25 01:35:31 2018 (436 ms) | general | failureLog starting up
+L4 | Sun Nov 25 01:35:31 2018 (445 ms) | general | 
+Cleaning stale look times from map...
+L4 | Sun Nov 25 01:35:31 2018 (445 ms) | general | Shrinking hash table for lookTimes from 2 down to 2
+L4 | Sun Nov 25 01:35:31 2018 (446 ms) | general | Cleaned 0 / 0 stale look times
+L4 | Sun Nov 25 01:35:31 2018 (448 ms) | general | No lookTimes present, not cleaning map.db
+L4 | Sun Nov 25 01:35:31 2018 (451 ms) | general | No lookTimes present, not cleaning mapTime.db
+L4 | Sun Nov 25 01:35:31 2018 (453 ms) | general | No lookTimes present, not cleaning biome.db
+L4 | Sun Nov 25 01:35:31 2018 (456 ms) | general | No lookTimes present, not cleaning floor.db
+L4 | Sun Nov 25 01:35:31 2018 (459 ms) | general | No lookTimes present, not cleaning floorTime.db
+L4 | Sun Nov 25 01:35:31 2018 (462 ms) | general | MetadataDB:  Found 0 records with max MetadataID of 0
+L4 | Sun Nov 25 01:35:31 2018 (462 ms) | general | 
+Cleaning map of objects that have been removed...
+L4 | Sun Nov 25 01:35:31 2018 (463 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Sun Nov 25 01:35:31 2018 (464 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Sun Nov 25 01:35:31 2018 (465 ms) | general | ...0 database records total (0 max hash bin depth).
+L4 | Sun Nov 25 01:35:31 2018 (469 ms) | general | Listening for connection on port 8005
+L4 | Sun Nov 25 01:35:36 2018 (686 ms) | general | Got connection from 127.0.0.1:52887
+L4 | Sun Nov 25 01:35:36 2018 (687 ms) | general | Listening for another connection on port 8005
+L4 | Sun Nov 25 01:35:37 2018 (687 ms) | general | Got new player logged in
+L4 | Sun Nov 25 01:35:37 2018 (690 ms) | general | New player sajtsdasasd pending tutorial load (tutorial=1)
+L4 | Sun Nov 25 01:35:37 2018 (690 ms) | general | New player sajtsdasasd connected as player 2 (tutorial=1) (10000000,0)
+L4 | Sun Nov 25 01:35:37 2018 (691 ms) | general | New player sajtsdasasd tutorial loaded after 0 steps, 0.001000 total sec (loadID = 0 )
+L4 | Sun Nov 25 01:35:37 2018 (691 ms) | general | Need to send updates about these 1 players: 2, 
+L4 | Sun Nov 25 01:35:52 2018 (309 ms) | general | Server starting up
+L4 | Sun Nov 25 01:35:52 2018 (310 ms) | general | Server using version number 172
+L4 | Sun Nov 25 01:35:52 2018 (333 ms) | general | curseLog starting up
+L4 | Sun Nov 25 01:35:52 2018 (334 ms) | general | Using remote curse server.
+L4 | Sun Nov 25 01:35:52 2018 (334 ms) | general | lifeLog starting up
+L4 | Sun Nov 25 01:35:52 2018 (340 ms) | general | foodLog starting up
+L4 | Sun Nov 25 01:35:52 2018 (340 ms) | general | failureLog starting up
+L4 | Sun Nov 25 01:35:52 2018 (348 ms) | general | 
+Cleaning stale look times from map...
+L4 | Sun Nov 25 01:35:52 2018 (348 ms) | general | Shrinking hash table for lookTimes from 2 down to 2
+L4 | Sun Nov 25 01:35:52 2018 (349 ms) | general | Cleaned 0 / 0 stale look times
+L4 | Sun Nov 25 01:35:52 2018 (352 ms) | general | No lookTimes present, not cleaning map.db
+L4 | Sun Nov 25 01:35:52 2018 (355 ms) | general | No lookTimes present, not cleaning mapTime.db
+L4 | Sun Nov 25 01:35:52 2018 (357 ms) | general | No lookTimes present, not cleaning biome.db
+L4 | Sun Nov 25 01:35:52 2018 (360 ms) | general | No lookTimes present, not cleaning floor.db
+L4 | Sun Nov 25 01:35:52 2018 (362 ms) | general | No lookTimes present, not cleaning floorTime.db
+L4 | Sun Nov 25 01:35:52 2018 (365 ms) | general | MetadataDB:  Found 0 records with max MetadataID of 0
+L4 | Sun Nov 25 01:35:52 2018 (365 ms) | general | 
+Cleaning map of objects that have been removed...
+L4 | Sun Nov 25 01:35:52 2018 (366 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Sun Nov 25 01:35:52 2018 (366 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Sun Nov 25 01:35:52 2018 (366 ms) | general | ...0 database records total (0 max hash bin depth).
+L4 | Sun Nov 25 01:35:52 2018 (369 ms) | general | Listening for connection on port 8005
+L4 | Sun Nov 25 01:36:24 2018 (367 ms) | general | Got connection from 127.0.0.1:52934
+L4 | Sun Nov 25 01:36:24 2018 (368 ms) | general | Listening for another connection on port 8005
+L4 | Sun Nov 25 01:36:25 2018 (368 ms) | general | Got new player logged in
+L4 | Sun Nov 25 01:36:25 2018 (372 ms) | general | New player sajtsdasasd pending tutorial load (tutorial=1)
+L4 | Sun Nov 25 01:36:25 2018 (372 ms) | general | New player sajtsdasasd connected as player 3 (tutorial=1) (10000000,0)
+L4 | Sun Nov 25 01:36:25 2018 (372 ms) | general | New player sajtsdasasd tutorial loaded after 0 steps, 0.001000 total sec (loadID = 0 )
+L4 | Sun Nov 25 01:36:25 2018 (372 ms) | general | Need to send updates about these 1 players: 3, 
+L4 | Sun Nov 25 01:37:14 2018 (127 ms) | general | Server starting up
+L4 | Sun Nov 25 01:37:14 2018 (128 ms) | general | Server using version number 172
+L4 | Sun Nov 25 01:37:14 2018 (153 ms) | general | curseLog starting up
+L4 | Sun Nov 25 01:37:14 2018 (154 ms) | general | Using remote curse server.
+L4 | Sun Nov 25 01:37:14 2018 (154 ms) | general | lifeLog starting up
+L4 | Sun Nov 25 01:37:14 2018 (159 ms) | general | foodLog starting up
+L4 | Sun Nov 25 01:37:14 2018 (160 ms) | general | failureLog starting up
+L4 | Sun Nov 25 01:37:14 2018 (169 ms) | general | 
+Cleaning stale look times from map...
+L4 | Sun Nov 25 01:37:14 2018 (169 ms) | general | Shrinking hash table for lookTimes from 2 down to 2
+L4 | Sun Nov 25 01:37:14 2018 (186 ms) | general | Cleaned 0 / 0 stale look times
+L4 | Sun Nov 25 01:37:14 2018 (188 ms) | general | No lookTimes present, not cleaning map.db
+L4 | Sun Nov 25 01:37:14 2018 (191 ms) | general | No lookTimes present, not cleaning mapTime.db
+L4 | Sun Nov 25 01:37:14 2018 (193 ms) | general | No lookTimes present, not cleaning biome.db
+L4 | Sun Nov 25 01:37:14 2018 (196 ms) | general | No lookTimes present, not cleaning floor.db
+L4 | Sun Nov 25 01:37:14 2018 (199 ms) | general | No lookTimes present, not cleaning floorTime.db
+L4 | Sun Nov 25 01:37:14 2018 (202 ms) | general | MetadataDB:  Found 0 records with max MetadataID of 0
+L4 | Sun Nov 25 01:37:14 2018 (203 ms) | general | 
+Cleaning map of objects that have been removed...
+L4 | Sun Nov 25 01:37:14 2018 (203 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Sun Nov 25 01:37:14 2018 (203 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Sun Nov 25 01:37:14 2018 (203 ms) | general | ...0 database records total (0 max hash bin depth).
+L4 | Sun Nov 25 01:37:14 2018 (207 ms) | general | Listening for connection on port 8005
+L4 | Sun Nov 25 01:37:21 2018 (897 ms) | general | Got connection from 127.0.0.1:52980
+L4 | Sun Nov 25 01:37:21 2018 (898 ms) | general | Listening for another connection on port 8005
+L4 | Sun Nov 25 01:37:22 2018 (899 ms) | general | Got new player logged in
+L4 | Sun Nov 25 01:37:22 2018 (902 ms) | general | New player sajtsdasasdsssda pending tutorial load (tutorial=1)
+L4 | Sun Nov 25 01:37:22 2018 (902 ms) | general | New player sajtsdasasdsssda connected as player 4 (tutorial=1) (10000000,0)
+L4 | Sun Nov 25 01:37:22 2018 (903 ms) | general | New player sajtsdasasdsssda tutorial loaded after 0 steps, 0.001000 total sec (loadID = 0 )
+L4 | Sun Nov 25 01:37:22 2018 (903 ms) | general | Need to send updates about these 1 players: 4, 
+L4 | Sun Nov 25 08:33:05 2018 (55 ms) | general | Server starting up
+L4 | Sun Nov 25 08:33:05 2018 (56 ms) | general | Server using version number 172
+L4 | Sun Nov 25 08:33:05 2018 (75 ms) | general | curseLog starting up
+L4 | Sun Nov 25 08:33:05 2018 (76 ms) | general | Using remote curse server.
+L4 | Sun Nov 25 08:33:05 2018 (77 ms) | general | lifeLog starting up
+L4 | Sun Nov 25 08:33:05 2018 (81 ms) | general | foodLog starting up
+L4 | Sun Nov 25 08:33:05 2018 (82 ms) | general | failureLog starting up
+L4 | Sun Nov 25 08:33:05 2018 (90 ms) | general | 
+Cleaning stale look times from map...
+L4 | Sun Nov 25 08:33:05 2018 (90 ms) | general | Shrinking hash table for lookTimes from 2 down to 2
+L4 | Sun Nov 25 08:33:05 2018 (91 ms) | general | Cleaned 0 / 0 stale look times
+L4 | Sun Nov 25 08:33:05 2018 (93 ms) | general | No lookTimes present, not cleaning map.db
+L4 | Sun Nov 25 08:33:05 2018 (96 ms) | general | No lookTimes present, not cleaning mapTime.db
+L4 | Sun Nov 25 08:33:05 2018 (98 ms) | general | No lookTimes present, not cleaning biome.db
+L4 | Sun Nov 25 08:33:05 2018 (100 ms) | general | No lookTimes present, not cleaning floor.db
+L4 | Sun Nov 25 08:33:05 2018 (103 ms) | general | No lookTimes present, not cleaning floorTime.db
+L4 | Sun Nov 25 08:33:05 2018 (106 ms) | general | MetadataDB:  Found 0 records with max MetadataID of 0
+L4 | Sun Nov 25 08:33:05 2018 (107 ms) | general | 
+Cleaning map of objects that have been removed...
+L4 | Sun Nov 25 08:33:05 2018 (107 ms) | general | ...0 map cells were set, and 0 needed to be cleared.
+L4 | Sun Nov 25 08:33:05 2018 (107 ms) | general | ...0 contained objects present, and 0 needed to be cleared.
+L4 | Sun Nov 25 08:33:05 2018 (107 ms) | general | ...0 database records total (0 max hash bin depth).
+L4 | Sun Nov 25 08:33:05 2018 (110 ms) | general | Listening for connection on port 8005
